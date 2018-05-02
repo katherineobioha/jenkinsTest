@@ -31,11 +31,7 @@
 		</dependency>
 		
 		<!-- JDBC -->
-		<dependency>
-			<groupId>ojdbc</groupId>
-			<artifactId>ojdbc</artifactId>
-			<version>14</version>
-		</dependency>
+		
 		<!-- LOG4J -->
   	
   	<!-- https://mvnrepository.com/artifact/org.json/json -->
